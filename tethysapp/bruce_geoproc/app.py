@@ -8,11 +8,11 @@ class BruceGeoproc(TethysAppBase):
 
     name = 'Bruce Geoproc'
     index = 'bruce_geoproc:home'
-    icon = 'bruce_geoproc/images/icon.gif'
+    icon = 'bruce_geoproc/images/BYU.jpg'
     package = 'bruce_geoproc'
     root_url = 'bruce-geoproc'
-    color = '#2980b9'
-    description = 'Place a brief description of your app here.'
+    color = '#F1650F'
+    description = 'This app includes the buffer point geoservers tool.'
     tags = ''
     enable_feedback = False
     feedback_emails = []
